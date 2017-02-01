@@ -87,8 +87,8 @@ def post(out):
     payload = {
         "attachments": [
             {   
-                "title": "COUNTDOWN!",
-                "text": out,
+                "title": "NINTENDO SWITCH COUNTDOWN!",
+                "text": "Switch is approaching.",
                 "color": "#7CD197"
             }
         ]
